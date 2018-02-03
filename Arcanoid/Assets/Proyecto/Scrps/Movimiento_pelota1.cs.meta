@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 69e210e578f2c7949a9f2225fb77e1c3
+timeCreated: 1513290050
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pos_inicial: {instanceID: 0}
+  - text_vida: {instanceID: 0}
+  - text_puntos: {instanceID: 0}
+  - text_terminado: {instanceID: 0}
+  - player: {instanceID: 0}
+  - poder: {fileID: 1229947792381826, guid: bf8e92cda74ab2648a97a261b300e2f7, type: 2}
+  - power: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
